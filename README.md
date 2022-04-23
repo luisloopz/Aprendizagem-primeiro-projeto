@@ -1,1 +1,2 @@
-# Aprendizagem-primeiro-projeto
+# Primeiro projeto!
+### Dedicação e foco!
